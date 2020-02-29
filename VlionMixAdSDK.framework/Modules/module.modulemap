@@ -1,0 +1,6 @@
+framework module VlionMixAdSDK {
+  umbrella header "VlionMixAdSDK.h"
+
+  export *
+  module * { export * }
+}
